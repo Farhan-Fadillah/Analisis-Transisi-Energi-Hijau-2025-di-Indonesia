@@ -124,11 +124,11 @@ hasil_df
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
+.dataframe tbody tr th {
         vertical-align: top;
     }
 
-    .dataframe thead th {
+.dataframe thead th {
         text-align: right;
     }
 </style>
@@ -416,11 +416,11 @@ hasil_df_pajak
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
+.dataframe tbody tr th {
         vertical-align: top;
     }
 
-    .dataframe thead th {
+.dataframe thead th {
         text-align: right;
     }
 </style>
@@ -810,11 +810,11 @@ hasil_df_greenwash.head()
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
+.dataframe tbody tr th {
         vertical-align: top;
     }
 
-    .dataframe thead th {
+.dataframe thead th {
         text-align: right;
     }
 </style>
@@ -946,11 +946,11 @@ hasil_df_lahan
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
+.dataframe tbody tr th {
         vertical-align: top;
     }
 
-    .dataframe thead th {
+.dataframe thead th {
         text-align: right;
     }
 </style>
