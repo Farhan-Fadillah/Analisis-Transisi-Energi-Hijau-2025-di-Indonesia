@@ -243,7 +243,7 @@ Berdasarkan dari data di atas dari 30 Perusahaan hanya 10 perusahaan yang emisin
 Selain itu kita bisa mengetahui nominal pajak karbon untuk perusahaan yang terdapat kelebihan emisi dan memvisualisasikan dalam bentuk chart dengan mengurutkan nominal pajak dari yang terbesar ke terkecil
 
 kita membuat klasifikasi intensitas yang kriterianya sebagai berikut:
-- Jika batas karbon tisak melebihi standard maka dikategorikan sebagai "Tak Berlebihan"
+- Jika batas karbon tidak melebihi standard maka dikategorikan sebagai "Tak Berlebihan"
 - Jika batas karbon berada di rentang > 0 sampai <= 10 maka masuk dalam kategori "Kategori Rendah"
 - Jika batas karbon berada di rentang > 10 sampai <= 30 maka masuk dalam kategori "Kategori Sedang"
 - Jika batas karbon berada di rentang > 30 maka masuk dalam kategori "Kategori Tinggi"
