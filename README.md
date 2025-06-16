@@ -123,7 +123,7 @@ hasil_df
 
 
 ### Kesimpulan 
-Dari data diatas kita mengetahui bahwa jumlah perusahaan yang kena pajak karbon sebesar 66,7 % lebih dari setengah dari total perusahaan. Tentu pemerintah tidak bisa diam terkait masalah ini diperlukan ketegesan dari pihak penegak hukum untuk lebih tegas menindak untuk efek jera dengan solusi seperti:
+Dari data diatas kita mengetahui bahwa jumlah perusahaan yang kena pajak karbon sebesar 66,7 % lebih dari setengah dari total perusahaan. Tentu pemerintah tidak bisa diam terkait masalah ini diperlukan ketegasan dari pihak penegak hukum untuk lebih tegas menindak untuk efek jera dengan solusi seperti:
 - Kenaikan tarif pajak serta sanksi yang lebih berat
 - Peringatan keras kepada perusahaan yang melanggar
 
@@ -242,7 +242,7 @@ Berdasarkan dari data di atas dari 30 Perusahaan hanya 10 perusahaan yang emisin
 
 Selain itu kita bisa mengetahui nominal pajak karbon untuk perusahaan yang terdapat kelebihan emisi dan memvisualisasikan dalam bentuk chart dengan mengurutkan nominal pajak dari yang terbesar ke terkecil
 
-kenapa? Karena setiap intensitas kelebihan karbon solusi dan follow up actionnya bisa berbeda dengan detail seperti berikut:
+kenapa di buat klasifikasi intensitas? Karena setiap intensitas kelebihan karbon solusi dan follow up actionnya bisa berbeda dengan detail seperti berikut:
 1. Kategori Rendah
 
 Lakukan audit energi internal dan optimasi proses operasional
@@ -425,7 +425,7 @@ plt.show()
 
 ### Kesimpulan
 
-70 % PLTS memiliki risiko konflik tinggi, angka ini sangat riskan mengingat pasti akan ada masalah lebih besar jika hal ini dibiarkan, oleh karena itu kita perlu solusi jika status konflik tinggi makan perlu dilakukan mediasi dengan pihak terkait agar tidak terjadi masalah yang lebih besar, namun jika risiko konflik rendah maka kita hanya perlu monitoring projek dengan pihak-pihak yang terlibat
+70 % PLTS memiliki risiko konflik tinggi, angka ini sangat riskan mengingat pasti akan ada masalah lebih besar jika hal ini dibiarkan, oleh karena itu kita perlu solusi jika status konflik tinggi maka perlu dilakukan mediasi dengan pihak terkait agar tidak terjadi masalah yang lebih besar, namun jika risiko konflik rendah maka kita hanya perlu monitoring projek dengan pihak-pihak yang terlibat
 
 # BAGIAN 5 : Analisa Emisi Perusahaan Dengan Chart
 
