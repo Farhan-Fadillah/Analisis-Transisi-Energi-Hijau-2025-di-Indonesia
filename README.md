@@ -799,4 +799,6 @@ Keyakinan bahwa proyek ini sangat berguna untuk Indonesia:
 - Skalabilitas dan Adaptabilitas : Metode yang digunakan dapat dikembangkan lebih lanjut dan diterapkan di sektor lain atau wilayah lain di Indonesia.
 
 
-
+Created by Farhan Fadillah
+Batch : 9
+No.Absen : 9.008.DB2025
