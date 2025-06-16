@@ -103,7 +103,8 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![image](https://github.com/user-attachments/assets/fc17fb27-eb82-4557-9af6-0f063ca71ea8)
+
     
 
 
@@ -394,7 +395,8 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![image](https://github.com/user-attachments/assets/452c4424-50e5-48ee-a755-32923e31ead0)
+
     
 
 
@@ -734,7 +736,8 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![image](https://github.com/user-attachments/assets/6581e583-8813-4f91-a7c4-d1d26c0a4c07)
+
     
 
 
@@ -891,7 +894,8 @@ plt.show()
 
 
     
-![png](output_34_0.png)
+![image](https://github.com/user-attachments/assets/f542df50-5f6d-4588-8470-8836b153fc36)
+
     
 
 
@@ -1225,7 +1229,8 @@ plt.show()
 
 
     
-![png](output_42_0.png)
+![image](https://github.com/user-attachments/assets/957e461a-e03e-4584-a471-4326c62437e6)
+
     
 
 
@@ -1251,7 +1256,8 @@ plt.show()
 
 
     
-![png](output_44_0.png)
+![image](https://github.com/user-attachments/assets/b3f82e59-8746-4ab7-a048-acbfc4300387)
+
     
 
 
@@ -1289,7 +1295,8 @@ plt.show()
 
 
     
-![png](output_50_0.png)
+![image](https://github.com/user-attachments/assets/c9ebe16e-b8d0-4fa9-82c6-d4a25fd9ba3b)
+
     
 
 
@@ -1320,7 +1327,8 @@ plt.show()
 
 
     
-![png](output_52_0.png)
+![image](https://github.com/user-attachments/assets/dc79cc3d-3da1-41cb-8053-6aea87369e9b)
+
     
 
 
@@ -1373,7 +1381,8 @@ plot_tren_emisi(emisi_dict)
 
 
     
-![png](output_58_0.png)
+![image](https://github.com/user-attachments/assets/0bdc2279-7b3d-41f1-abf3-87bf54498e63)
+
     
 
 
@@ -1407,7 +1416,8 @@ plt.show()
 
 
     
-![png](output_60_0.png)
+![image](https://github.com/user-attachments/assets/657928d1-caa2-429c-88f3-d1d7cf8520d7)
+
     
 
 
@@ -1449,7 +1459,8 @@ plt.show()
 
 
     
-![png](output_62_0.png)
+![image](https://github.com/user-attachments/assets/c4fc50eb-ff8c-4404-a757-63f5b8bc0668)
+
     
 
 
@@ -1481,7 +1492,8 @@ plt.show()
 
 
     
-![png](output_65_0.png)
+![image](https://github.com/user-attachments/assets/bae3cf60-0b3e-4fae-a186-0c2c74b6b400)
+
     
 
 
@@ -1510,7 +1522,8 @@ plt.show()
 
 
     
-![png](output_67_0.png)
+![image](https://github.com/user-attachments/assets/e2627104-4106-46e6-b26c-fbcb28180ce2)
+
     
 
 
@@ -1539,7 +1552,8 @@ plt.show()
 
 
     
-![png](output_69_0.png)
+![image](https://github.com/user-attachments/assets/e017a0c9-0489-4bb4-af20-fb3f1c119a39)
+
     
 
 
@@ -1568,7 +1582,8 @@ plt.show()
 
 
     
-![png](output_71_0.png)
+![image](https://github.com/user-attachments/assets/3fefe349-93f5-4c63-906e-ba53ad0f8c18)
+
     
 
 
