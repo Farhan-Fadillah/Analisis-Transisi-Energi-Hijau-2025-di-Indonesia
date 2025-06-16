@@ -1,0 +1,31 @@
+Nama_Proyek,Luas_Lahan,Status_Konflik,Lokasi,Tahun_Mulai
+PLTS_Jawa1,600.0,tidak,Jawa Tengah,2022
+PLTS_Sulawesi1,400.0,ya,Sulawesi Selatan,2021
+PLTS_Jawa2,300.0,tidak,Jawa Barat,2023
+PLTS_Bali1,550.0,ya,Bali,2022
+PLTS_Sumatera1,450.0,tidak,Sumatera Utara,2021
+PLTS_Kalimantan1,700.0,ya,Kalimantan Timur,2023
+PLTS_Jawa3,350.0,tidak,Jawa Timur,2022
+PLTS_Sulawesi2,500.0,ya,Sulawesi Tenggara,2021
+PLTS_Banten1,650.0,tidak,Banten,2023
+PLTS_Sumatera2,420.0,ya,Sumatera Selatan,2022
+PLTS_Jawa4,480.0,tidak,Jawa Tengah,2021
+PLTS_Bali2,580.0,ya,Bali,2023
+PLTS_Kalimantan2,390.0,tidak,Kalimantan Selatan,2022
+PLTS_Sulawesi3,620.0,ya,Sulawesi Selatan,2021
+PLTS_Jawa5,340.0,tidak,Jawa Barat,2023
+PLTS_Sumatera3,510.0,ya,Sumatera Utara,2022
+PLTS_Banten2,460.0,tidak,Banten,2021
+PLTS_Jawa6,680.0,ya,Jawa Tengah,2023
+PLTS_Sulawesi4,430.0,tidak,Sulawesi Tenggara,2022
+PLTS_Bali3,570.0,ya,Bali,2021
+PLTS_Kalimantan3,490.0,tidak,Kalimantan Timur,2023
+PLTS_Jawa7,360.0,ya,Jawa Timur,2022
+PLTS_Sumatera4,640.0,tidak,Sumatera Selatan,2021
+PLTS_Banten3,410.0,ya,Banten,2023
+PLTS_Sulawesi5,590.0,tidak,Sulawesi Selatan,2022
+PLTS_Jawa8,470.0,ya,Jawa Barat,2021
+PLTS_Kalimantan4,520.0,tidak,Kalimantan Selatan,2023
+PLTS_Bali4,380.0,ya,Bali,2022
+PLTS_Sumatera5,660.0,tidak,Sumatera Utara,2021
+PLTS_Jawa9,440.0,ya,Jawa Tengah,2023
